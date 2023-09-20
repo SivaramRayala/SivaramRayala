@@ -1,5 +1,3 @@
-
-
   <activeProfiles>
     <activeProfile>github</activeProfile>
   </activeProfiles>
