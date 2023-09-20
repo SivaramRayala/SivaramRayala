@@ -29,7 +29,7 @@
   <servers>
     <server>
       <id>github</id>
-      <username>USERNAME</username>
+      <username>Sivaram Rayala</username>
       <password>TOKEN</password>
     </server>
   </servers>
