@@ -1,7 +1,6 @@
   <activeProfiles>
     <activeProfile>github</activeProfile>
   </activeProfiles>
-
   <profiles>
     <profile>
       <id>github</id>
@@ -20,7 +19,6 @@
       </repositories>
     </profile>
   </profiles>
-
   <servers>
     <server>
       <id>github</id>
