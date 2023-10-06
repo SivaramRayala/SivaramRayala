@@ -6,6 +6,7 @@
       <id>github</id>
       <repositories>
         <repository>
+        😂😊🤦‍♂️🤷‍♀️🤷‍♂️✔🎈
           <id>central</id>
           <url>https://repo1.maven.org/maven2</url>
         </repository>
