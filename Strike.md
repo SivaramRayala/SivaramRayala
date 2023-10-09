@@ -1,4 +1,4 @@
-  <activeProfiles>
+    <activeProfiles>
     <activeProfile>github</activeProfile>
   </activeProfiles>
   <profiles>
